@@ -2,3 +2,4 @@ Angular
 Webpack
 
 Javasript
++jezyk
