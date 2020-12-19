@@ -5,5 +5,5 @@
 2. Open index.html
 
 Show wp.pl
-[Wirtualna Polska] (http://wp.pl)
+[Wirtualna Polska ] (http://wp.pl)
 
